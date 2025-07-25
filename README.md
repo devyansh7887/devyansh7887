@@ -33,7 +33,7 @@
   
   <!-- GeeksforGeeks Profile Card -->
   <a href="https://www.geeksforgeeks.org/user/devyansh_7887/">
-    <img height="150em" src="https://gfgstatscard.vercel.app/devyansh_7887" alt="GFG stats" />
+    <img height="300em" src="https://gfgstatscard.vercel.app/devyansh_7887" alt="GFG stats" />
   </a>
 
   <!-- GitHub Profile Card -->
@@ -42,3 +42,4 @@
   </a>
 </p>
 
+![snake gif](https://github.com/devyansh7887/keshabkjha/blob/output/github-contribution-grid-snake.svg)
