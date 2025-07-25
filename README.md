@@ -25,3 +25,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devyansh7887&show_icons=true&locale=en&layout=compact" alt="devyansh7887" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devyansh7887&" alt="devyansh7887" /></p>
+<p>
+<a href ="https://leetcode.com/u/Devyansh_7887/">
+<img height = "280em" src = "https://leetcard.jacoblin.cool/devyansh7887?theme=dark&font=PT%20Serif&ext=contest">
+</a>
+<a href="https://www.geeksforgeeks.org/user/devyansh_7887/">
+  <img height = "280em"src="https://gfgstatscard.vercel.app/devyansh7887" alt="GFG stats" />
+</a>
+</p>
