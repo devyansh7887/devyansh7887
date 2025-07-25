@@ -36,7 +36,7 @@
   </a>
   <!-- GeeksforGeeks Profile Card -->
   <a href="https://www.geeksforgeeks.org/user/devyansh_7887/">
-    <img height="200em" width="300em" src="https://gfgstatscard.vercel.app/devyansh_7887" alt="GFG stats" />
+    <img height="200em" width="500em" src="https://gfgstatscard.vercel.app/devyansh_7887" alt="GFG stats" />
   </a>
 </p>
 
