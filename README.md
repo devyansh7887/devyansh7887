@@ -30,16 +30,15 @@
   <a href="https://leetcode.com/u/Devyansh_7887/">
     <img height="150em" src="https://leetcard.jacoblin.cool/Devyansh_7887?theme=dark&font=PT%20Serif&ext=contest" alt="LeetCode stats" />
   </a>
-  
+   <!-- GitHub Profile Card -->
+  <a href="https://github.com/devyansh7887">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devyansh7887&show_icons=true&theme=dark" alt="GitHub stats" />
+  </a>
   <!-- GeeksforGeeks Profile Card -->
   <a href="https://www.geeksforgeeks.org/user/devyansh_7887/">
     <img height="300em" src="https://gfgstatscard.vercel.app/devyansh_7887" alt="GFG stats" />
   </a>
-
-  <!-- GitHub Profile Card -->
-  <a href="https://github.com/devyansh7887">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devyansh7887&show_icons=true&theme=dark" alt="GitHub stats" />
-  </a>
 </p>
 
-![snake gif](https://github.com/devyansh7887/keshabkjha/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/devyansh7887/devyansh7887/output/github-contribution-grid-snake.svg)
+
