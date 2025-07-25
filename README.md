@@ -40,5 +40,5 @@
   </a>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/devyansh7887/devyansh7887/output/github-contribution-grid-snake.svg)
-
+<!-- ![snake gif](https://raw.githubusercontent.com/devyansh7887/devyansh7887/output/github-contribution-grid-snake.svg)
+-->
