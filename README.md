@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular JS. and Backend development**
 
-- 👨‍💻 All of my projects are available at [https://devyansh-upadhyay-gbcr2rj.gamma.site/](https://devyansh-upadhyay-gbcr2rj.gamma.site/)
+- 👨‍💻 All of my projects are available at  my PORTFOLIO [https://devyansh-upadhyay-gbcr2rj.gamma.site/](https://devyansh-upadhyay-gbcr2rj.gamma.site/)
 
 - 💬 Ask me about **JAVA, JavaScript, React JS.**
 
