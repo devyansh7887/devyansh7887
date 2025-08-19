@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dupadhyay7887@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/D2br8](https://shorturl.at/D2br8)
+- 📄 Know about my experiences ([https://shorturl.at/D2br8](https://shorturl.at/g1fDV))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
