@@ -25,6 +25,8 @@
 </p>
 
 <h3 align="left">Certifications :</h3>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B5A8EE38FB3B1769CDE543D33EDB78E09F63AC9656B2757BF948AC5343E57126"title="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional"target="_blank" rel="noopener noreferrer"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional badge" width="150" height="150">
+</a>
 <a href="https://www.credly.com/badges/7d4f4514-32f8-4ba0-b5e4-0c65a3e15444/public_url" title="CCNA: Enterprise Networking, Security, and Automation"><img src="https://images.credly.com/size/80x80/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA: Enterprise Networking, Security, and Automation" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1d0302c8-cc67-4d2d-b758-500a1706e305/public_url" title="CCNA: Introduction to Networks"><img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/62d32384-06a0-4f64-aab7-593cc2e1bf20/public_url" title="CCNA: Switching, Routing, and Wireless Essentials"><img src="https://images.credly.com/size/80x80/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA: Switching, Routing, and Wireless Essentials" width="80" height="80"></a>
