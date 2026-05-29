@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Creating my very own React JS.**  
 - 🌱 I’m currently learning **Angular JS and Backend development**  
-- 👨‍💻 All of my projects: [Portfolio](https://devyansh-upadhyay-gbcr2rj.gamma.site/)  
+- 👨‍💻 All of my projects: [Portfolio]((https://devyanshdev.netlify.app/))  
 - 💬 Ask me about **Java, JavaScript, React JS**  
 - 📫 Reach me at **dupadhyay7887@gmail.com**  
 - 📄 [Resume](https://shorturl.at/g1fDV)
