@@ -4,12 +4,12 @@
   <img width="800em" src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer...;Frontend+Development+Enthusiast...;AI+Innovator...;Data+Science+Enthusiast...;Problem+Solver...;Nice+To+Meet+You+....&center=true" />
 </p>
 
-<h3 align="center">A CURIOUS developer and software engineer, currently open to opportunities.</h3>
+<h3 align="center">A AI developer and software engineer, currently open to opportunities.</h3>
 
-- 🔭 I’m currently working on **Creating my very own React JS.**  
-- 🌱 I’m currently learning **Angular JS and Backend development**  
+- 🔭 I’m currently working on **Langchain AND LLM Tuning**  
+- 🌱 I’m currently learning **RAG Pipelines**  
 - 👨‍💻 All of my projects: [Portfolio](https://devyanshdev.netlify.app/)  
-- 💬 Ask me about **Java, JavaScript, React JS**  
+- 💬 Ask me about **Java, Python, JavaScript, React JS**  
 - 📫 Reach me at **dupadhyay7887@gmail.com**  
 - 📄 [Resume](https://shorturl.at/g1fDV)
 
