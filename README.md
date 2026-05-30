@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects: [Portfolio](https://devyanshdev.netlify.app/)  
 - 💬 Ask me about **Java, Python, JavaScript, React JS**  
 - 📫 Reach me at **dupadhyay7887@gmail.com**  
-- 📄 [Resume](https://shorturl.at/g1fDV)
+- 📄 [MY-Resume](https://drive.google.com/file/d/1YgdCnF9hAJxarla971RndOk9QdLqTzen/view?usp=drive_link)
 
 ---
 
