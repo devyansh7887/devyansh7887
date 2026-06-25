@@ -11,7 +11,7 @@
 - 👨‍💻 More about me : [Portfolio](https://devyanshupadhyay.vercel.app/)  
 - 💬 Ask me about **Java, Python, JavaScript, React JS**  
 - 📫 Reach me at **dupadhyay7887@gmail.com**  
-- 📄 [MY-Resume](https://drive.google.com/file/d/1YgdCnF9hAJxarla971RndOk9QdLqTzen/view?usp=drive_link)
+- 📄 [MY-Resume](https://drive.google.com/file/d/11ET551_YPSfhOeD9BXOLYykc2YTYi7BV/view?usp=drive_link)
 
 ---
 
