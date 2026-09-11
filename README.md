@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devyansh Upadhyay!!</h1>
 
 <p align="center">
-  <img width="800em" src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer...;Frontend+Development+Enthusiast...;AI+Innovator...;Data+Science+Enthusiast...;Problem+Solver...;Nice+To+Meet+You+....&center=true" />
+  <img width="800em" src="https://readme-typing-svg.demolab.com?color=E22FE4&width=380&height=28&lines=Emerging+Software+Engineer...;Frontend+Development+Enthusiast...;AI+Innovator...;Data+Science+Enthusiast...;Problem+Solver...;Nice+To+Meet+You+....&center=true" />
 </p>
 
 <h3 align="center">A AI developer and software engineer, currently open to opportunities.</h3>
@@ -11,7 +11,7 @@
 - 👨‍💻 More about me : [Portfolio](https://devyanshupadhyay.vercel.app/)  
 - 💬 Ask me about **Java, Python, JavaScript, React JS**  
 - 📫 Reach me at **dupadhyay7887@gmail.com**  
-- 📄 [MY-Resume](https://drive.google.com/file/d/11ET551_YPSfhOeD9BXOLYykc2YTYi7BV/view?usp=drive_link)
+- 📄 [MY-Resume](https://drive.google.com/file/d/1D5jCBeczamKXR5ORUb-zb8nY9b5Wz23W/view?usp=drive_link)
 
 ---
 
@@ -105,7 +105,6 @@
 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
 
-
 </p>
 
 ---
@@ -114,7 +113,7 @@
 
 <p>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devyansh7887&layout=compact" />
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=devyansh7887" />
+<img height="150em" src="https://streak-stats.demolab.com/?user=devyansh7887" />
 </p>
 
 ---
