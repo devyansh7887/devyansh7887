@@ -33,6 +33,8 @@ Instead of pattern-matching like most AI coding assistants, Groundwork parses th
 
 **[Live Demo](https://thegroundwork.vercel.app/) · [GitHub Repo](https://github.com/devyansh7887/groundwork)**
 
+*Co-built with [Anushka Baranwal](https://github.com/devyansh7887).*
+
 ---
 
 <h3 align="left">Other Projects</h3>
